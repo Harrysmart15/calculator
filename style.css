@@ -1,0 +1,29 @@
+.container{
+    border: 2px solid black;
+    background-color: rgb(31, 185, 196);
+    width: fit-content;
+    margin:auto;
+}
+
+ input{
+    margin: 6px;
+    padding: 20px;
+    margin-left: 14px;
+    background-color: black;
+    color: whitesmoke;
+}
+ 
+ button{
+    padding: 18px;
+    margin: 3px;
+    border-radius: 5px;
+    background-color: black;
+    color: whitesmoke;
+}
+
+h1{
+  text-align: center;
+  color: rgba(253, 71, 5, 0.991);
+}
+body{
+ background-image: url("https://i.pinimg.com/originals/8c/43/64/8c43645fe8d0ac164a6925448be32858.jpg")
